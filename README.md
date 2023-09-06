@@ -55,9 +55,12 @@ To develop your understanding of the domain, you are advised to independently re
 
 # Data set Understanding
 
+
+
 This dataset has 3 files as explained below: 
 
- 
+# Download the dataset from the link below.  
+https://drive.google.com/open?id=16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
 
 1. 'application_data.csv'  contains all the information of the client at the time of application.
 The data is about whether a client has payment difficulties.
